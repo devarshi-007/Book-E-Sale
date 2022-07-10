@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\CartControllers.cs" />
+    <Compile Remove="Controllers\OrderController.cs" />
+    <Compile Remove="Controllers\OrderdtlController.cs" />
+    <Compile Remove="Controllers\OrderdtlModel.cs" />
+    <Compile Remove="Controllers\OrderMstController.cs" />
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
+    <Compile Remove="WeatherForecast.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookStoreModels\BookStoreModels.csproj" />
+    <ProjectReference Include="..\BookStoreRepository\BookStoreRepository.csproj" />
+  </ItemGroup>
+
+</Project>

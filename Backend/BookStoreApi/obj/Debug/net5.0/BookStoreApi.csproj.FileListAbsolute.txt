@@ -1,0 +1,80 @@
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.exe
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.runtimeconfig.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.runtimeconfig.dev.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\ref\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreApi.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\bin\Debug\net5.0\BookStoreRepository.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\staticwebassets\BookStoreApi.StaticWebAssets.Manifest.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\staticwebassets\BookStoreApi.StaticWebAssets.xml
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.CopyComplete
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\ref\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreApi\obj\Debug\net5.0\BookStoreApi.genruntimeconfig.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.exe
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.runtimeconfig.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.runtimeconfig.dev.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\ref\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreApi.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\bin\Debug\net5.0\BookStoreRepository.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\staticwebassets\BookStoreApi.StaticWebAssets.Manifest.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\staticwebassets\BookStoreApi.StaticWebAssets.xml
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.csproj.CopyComplete
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\ref\BookStoreApi.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreApi\obj\Debug\net5.0\BookStoreApi.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\ref\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CopyComplete
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\ref\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\ref\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CopyComplete
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\ref\BookStoreRepository.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.pdb

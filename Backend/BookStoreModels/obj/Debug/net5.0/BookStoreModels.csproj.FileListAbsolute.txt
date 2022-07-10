@@ -1,0 +1,30 @@
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\BookStoreModels.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\ref\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\ref\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.dev.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\6. login regidter api\BookStoreModels\obj\Debug\net5.0\BookStoreModels.genruntimeconfig.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\BookStoreModels.deps.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.dev.json
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\ref\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\bin\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.AssemblyReference.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfoInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfo.cs
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.CoreCompileInputs.cache
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\ref\BookStoreModels.dll
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.pdb
+C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.genruntimeconfig.cache

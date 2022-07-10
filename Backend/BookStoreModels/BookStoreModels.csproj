@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder\CartBook.cs" />
+    <Compile Remove="NewFolder\GetOrderModel.cs" />
+    <Compile Remove="NewFolder\OrderDtlModel.cs" />
+    <Compile Remove="NewFolder\OrderModel.cs" />
+    <Compile Remove="NewFolder\OrdermstModel.cs" />
+    <Compile Remove="ViewModels\GetOrder.cs" />
+    <Compile Remove="ViewModels\GetSubOrder.cs" />
+    <Compile Remove="ViewModels\Order.cs" />
+    <Compile Remove="ViewModels\SubOrder.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.10" />
+  </ItemGroup>
+
+</Project>
