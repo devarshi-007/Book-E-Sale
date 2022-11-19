@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4sEUYY83yfLR2JApeGPkd0zIwsFnrjuBn4daTMqViuc/N4sgVM6oQkbeGG8GZeoXEtlSl9b0DiXCzNtJdTMJZw==",
+  "dgSpecHash": "dHS4Jgb2l5Sz7AviLh0K/tc/Lxb4bRhW9rlWrdcoQ0FaCb3muFCMoGUtORVE2g6HF4UrXwFzeGLgIWc9PsCbnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
+  "projectFilePath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",

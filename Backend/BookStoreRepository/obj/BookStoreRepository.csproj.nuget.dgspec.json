@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {}
+    "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
+    "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj",
+        "projectUniqueName": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj",
         "projectName": "BookStoreModels",
-        "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj",
+        "projectPath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj",
         "packagesPath": "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\obj\\",
+        "outputPath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Devarshi Trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {
+    "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
+        "projectUniqueName": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
         "projectName": "BookStoreRepository",
-        "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
+        "projectPath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj",
         "packagesPath": "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\obj\\",
+        "outputPath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Devarshi Trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +95,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
-                "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj"
+              "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
+                "projectPath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj"
               }
             }
           }
@@ -115,7 +116,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -124,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

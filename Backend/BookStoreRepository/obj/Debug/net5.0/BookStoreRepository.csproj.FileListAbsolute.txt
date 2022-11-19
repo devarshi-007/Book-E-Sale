@@ -28,3 +28,18 @@ C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.dll
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\ref\BookStoreRepository.dll
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.deps.json
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\bin\Debug\net5.0\BookStoreRepository.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\bin\Debug\net5.0\BookStoreModels.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.AssemblyReference.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfoInputs.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.AssemblyInfo.cs
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CoreCompileInputs.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.csproj.CopyComplete
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\refint\BookStoreRepository.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\BookStoreRepository.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreRepository\obj\Debug\net5.0\ref\BookStoreRepository.dll

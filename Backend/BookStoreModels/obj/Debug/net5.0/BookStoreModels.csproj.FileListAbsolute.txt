@@ -28,3 +28,18 @@ C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debu
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\ref\BookStoreModels.dll
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.pdb
 C:\Users\Devarshi Trivedi\Desktop\TatvaSoft\Book-E-Sell\BookStoreModels\obj\Debug\net5.0\BookStoreModels.genruntimeconfig.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\bin\Debug\net5.0\BookStoreModels.deps.json
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.json
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\bin\Debug\net5.0\BookStoreModels.runtimeconfig.dev.json
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\bin\Debug\net5.0\BookStoreModels.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\bin\Debug\net5.0\BookStoreModels.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.AssemblyReference.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfoInputs.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.AssemblyInfo.cs
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.csproj.CoreCompileInputs.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\refint\BookStoreModels.dll
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.pdb
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\BookStoreModels.genruntimeconfig.cache
+G:\Internship\TatvaSoft\Book-E-Sell\Backend\BookStoreModels\obj\Debug\net5.0\ref\BookStoreModels.dll

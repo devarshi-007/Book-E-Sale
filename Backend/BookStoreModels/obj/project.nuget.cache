@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMGFHSkdicnynkCGdbH3IhpKtKSSok3hQ+jwLYwg15zEmNkNKXUyR8hwpdGAbkWfUHj+pwnQLr39/U4Htwvlgw==",
+  "dgSpecHash": "R6y8vSDJFrSmVH/8q/JIAR7ZkWWo1t3Gfmek8SJLReijDJ8JRooqt4b7tqqsET/WJ/TY8NC4oxCLOVl9uB5g/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj",
+  "projectFilePath": "G:\\Internship\\TatvaSoft\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
