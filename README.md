@@ -1,4 +1,4 @@
-# Book-E-Sell
+# Book-E-Sale
 Mini Summer Internship at TatvaSoft
 
 ## Important points:-
