@@ -14,5 +14,5 @@ Database Integration command with Visual Studio.
 BookStoreModels-->Open in Terminal
 * dotnet ef dbcontext scaffold "Server=localhost; Port=port;Database=database-name;UserId=postgres;Password=password;SSL Mode=Prefer" Npgsql.EntityFrameworkCore.PostgreSQL -o ViewModels
 
-###if dotnet-ef command not found error comes do this.
+### if dotnet-ef command not found error comes do this.
 dotnet tool install --global dotnet-ef --version 5.*
