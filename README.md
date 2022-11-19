@@ -10,4 +10,6 @@ Mini Summer Internship at TatvaSoft
 
 ## Database Integration
 Database Integration command with Visual Studio.
+
+BookStoreModels-->Open in Terminal
 * dotnet ef dbcontext scaffold "Server=localhost; Port=port;Database=database-name;UserId=postgres;Password=password;SSL Mode=Prefer" Npgsql.EntityFrameworkCore.PostgreSQL -o ViewModels
